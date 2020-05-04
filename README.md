@@ -1,5 +1,4 @@
-# plymouth-pop-black
-Custom Plymouth theme for Pop!_OS - black &amp; minimal.
+# Plymoth - Black Pop!_OS startup.
 
 I prefer my boot background to be fairly minimalistic, but still be slightly snazzy. This is a slight modifcation of the standard BGRT theme included in Pop's Plymouth install - the computers OEM logo will display in the centre, with a spinning icon below it (fancy!). The standard Ubuntu logo is replaced with a Pop!_OS logo for completeness.
 
