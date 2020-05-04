@@ -1,6 +1,6 @@
 # Plymoth - Black Pop!_OS startup.
 
-I prefer my boot background to be fairly minimalistic, but still be slightly snazzy. This is a slight modifcation of the standard BGRT theme included in Pop's Plymouth install - the computers OEM logo will display in the centre, with a spinning icon below it (fancy!). The standard Ubuntu logo is replaced with a Pop!_OS logo for completeness.
+I prefer my boot background to be fairly minimalistic, but still be slightly snazzy. This is a slight modification of the standard BGRT theme included in Pop's Plymouth install - the computers OEM logo will display in the centre, with a spinning icon below it (fancy!). The standard Ubuntu logo is replaced with a Pop!_OS logo for completeness. (I actually run without it, so feel free to delete it if you want!)
 
 To install, copy the pop folder to /usr/share/plymouth/themes. Run the following command in the terminal of your choice:
 
