@@ -9,4 +9,6 @@ To install, copy the pop folder to /usr/share/plymouth/themes. Run the following
 Then select the Pop option that shows in the terminal. Then all you need to do is run:
 `sudo update-alternatives --config default.plymouth`
 
+Alternatively if you use systemd boot, you may need to run `sudo update-initramfs -k all -u` also - thanks lfom!
+
 This will change the theme to your fancy new Pop branded startup!
